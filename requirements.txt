@@ -1,0 +1,6 @@
+streamlit 
+pandas
+datetime
+os
+sleep
+pyautogui
