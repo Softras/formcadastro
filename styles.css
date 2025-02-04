@@ -1,0 +1,80 @@
+.stApp {
+    background-color: #c7c5c5
+}
+.stAppHeader {
+    background-color:rgb(133, 156, 129); 
+}
+.stButton > Button {
+    background-color:rgb(133, 156, 129); 
+    color: white;   
+    font-family: 'Courier New', 'Courier New';
+    border-radius: 5px;
+    width: 200px;  
+    height: 50px;  
+    text-align: center;
+}
+.stButton > Button:hover {
+    background-color: rgb(60, 60, 60); 
+    color: rgb(133, 25, 55); 
+}
+#a35d17c {
+    background-color: rgb(102, 102, 102); 
+    color: white; 
+    width: 704px;  
+    height: 70px;  
+    border-radius: 10px;
+    text-align: center;
+}
+.e121c1cl2 {
+    background-color: rgb(191, 191, 191); 
+    color: rgb(133, 156, 129);  
+    width: 704px;  
+    border-radius: 10px;
+    text-align: Left;
+}
+.stDateInput {
+    color:black;
+    background-color:  rgb(60, 60, 60); 
+    border-radius: 5px;
+    width: 215px;  
+}
+.stDateInput > label {
+    background-color: rgb(133, 156, 129); 
+    color: black;
+    border-radius: 5px;
+    width: 217x; 
+}
+.stTextInput {
+    color:black;
+    background-color:  rgb(60, 60, 60); 
+    border-radius: 5px;
+    width: 215x;  
+}
+.stTextInput > label {
+    background-color:  rgb(133, 156, 129); 
+    color: black;
+    border-radius: 5px;
+    width: 217x;  
+}
+.stSelectbox {
+    color:black;
+    background-color: silver;
+    border-radius: 5px;
+    width: 704px;  
+}
+.st-emotion-cache-4tlk2p {
+    background-color: rgb(133, 156, 129); 
+    color: white;
+    border-radius: 5px;
+    width: 240px;  
+    line-height: 1;
+    margin: 3px; 
+    padding: 10px;
+    border: 1px solid #000; 
+}
+#MainMenu {
+    visibility: hidden; /* Retirar menu do streamlit */
+}
+.e1r3imca0 > span {
+    visibility: hidden; /* Retirar propaganda padrão de Deply */
+}
